@@ -1,0 +1,1 @@
+# docker-node-10-aws-cli
